@@ -45,8 +45,20 @@
 
 ---
 
-## 🌍 About Me
-- 🧠 Always learning, always curious  
-- 🧩 Logical thinker & calm under pressure  
+## 🌍 About Me & Stats
 
----
+<table>
+  <tr>
+    <td width="50%">
+
+💬 **About Me**  
+- 🧠 Always learning, always curious  
+- 🧩 Logical thinker & calm under pressure 
+
+    </td>
+    <td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audomsuknttpk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  </tr>
+</table>
