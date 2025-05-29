@@ -38,7 +38,3 @@
 </p>
 
 ---
-
-## 📫 Contact Me
-Feel free to reach out via [LinkedIn](#) or [Email](#)!
-
