@@ -7,11 +7,6 @@ Backend developer with 1+ year of production experience building and modernizing
 [![Email](https://img.shields.io/badge/Email-audomsuk.nttpk%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:audomsuk.nttpk@gmail.com)
 
 ---
-
-## Currently
-
-Backend Developer at **Exvention Co., Ltd.** (June 2025 – present), working on a greenfield booking marketplace platform and the modernization of a legacy accounting system.
-
 ## Selected Work
 
 ### Booking Marketplace Platform
